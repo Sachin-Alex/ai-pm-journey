@@ -1,40 +1,40 @@
-Section 1 — Quote Extraction
-Interview A — Rohan Verma (SDE, Bangalore, WFH)
-Quote: "Zomato has become... unreliable. Especially evenings. Like yesterday — I ordered biryani at 8:30 PM. App promised 30 minutes. It arrived at 9:45 PM. Cold."
+#Section 1 — Quote Extraction
+##Interview A — Rohan Verma (SDE, Bangalore, WFH)
+##Quote: "Zomato has become... unreliable. Especially evenings. Like yesterday — I ordered biryani at 8:30 PM. App promised 30 minutes. It arrived at 9:45 PM. Cold."
 
-Signals: When ordering dinner between 7-9 PM in dense tech corridors, users experience a delay in food delivery.
+##Signals: When ordering dinner between 7-9 PM in dense tech corridors, users experience a delay in food delivery.
 
-Quote: "Because the food quality isn't the issue — the food is cold because it took 75 minutes. So the restaurant gets a bad rating for something that wasn't their fault. Feels unfair, but that's the system."
+##Quote: "Because the food quality isn't the issue — the food is cold because it took 75 minutes. So the restaurant gets a bad rating for something that wasn't their fault. Feels unfair, but that's the system."
 
-Signals: The overall user experience is hampered as the delay in delivery leads to the food turning cold.
+##Signals: The overall user experience is hampered as the delay in delivery leads to the food turning cold.
 
-Quote: "When Gold was 200 rupees for unlimited free delivery, no restrictions, it was a no-brainer. Now they've added minimum order values, restricted restaurants, handling fees Gold doesn't cover... my monthly savings dropped from about 500 rupees to 150. Membership was 200. Math didn't work anymore."
+##Quote: "When Gold was 200 rupees for unlimited free delivery, no restrictions, it was a no-brainer. Now they've added minimum order values, restricted restaurants, handling fees Gold doesn't cover... my monthly savings dropped from about 500 rupees to 150. Membership was 200. Math didn't work anymore."
 
-Signals: When Gold added restaurant restrictions, raised minimum order values, and introduced fees the plan didn't cover without clearly communicating the change, subscribers felt misled rather than informed which led to subscription cancellations
-Interview B — Meera Krishnan (Restaurant owner, Chennai)
-Quote: " Yes. Because we simply cannot handle it. Saturday-Sunday, we get 3x the walk-ins. My kitchen has one dosa griddle, one idli steamer, one prep station. Weekdays fine, weekends chaos."
+##Signals: When Gold added restaurant restrictions, raised minimum order values, and introduced fees the plan didn't cover without clearly communicating the change, subscribers felt misled rather than informed which led to subscription cancellations
+##Interview B — Meera Krishnan (Restaurant owner, Chennai)
+##Quote: " Yes. Because we simply cannot handle it. Saturday-Sunday, we get 3x the walk-ins. My kitchen has one dosa griddle, one idli steamer, one prep station. Weekdays fine, weekends chaos."
 
-Signals: Weekend restaurant capacity mismatch
+##Signals: Weekend restaurant capacity mismatch
 
-Quote: "Their account manager comes once every 2-3 months. I've told him five times. Nothing changes. The app just gives me one option — mark yourself offline. But then my ratings drop because I've been "unavailable" too much.
+##Quote: "Their account manager comes once every 2-3 months. I've told him five times. Nothing changes. The app just gives me one option — mark yourself offline. But then my ratings drop because I've been "unavailable" too much.
 "
 
-Signals: Churn in the restaurants wanting to be listed is also a genuine concern
+##Signals: Churn in the restaurants wanting to be listed is also a genuine concern
 
-Quote: "Oh, yes. We've been marked "low fulfillment" twice. Our visibility drops. Ratings suffer. But what can we do? Sunday afternoon at 1 PM, I have 60 dine-in customers waiting. A delivery order comes in — someone in HSR wants 4 uttapams. If I take it, one of my walk-in customers waits 90 minutes. If I cancel, one delivery guy gets annoyed. It's arithmetic."
+##Quote: "Oh, yes. We've been marked "low fulfillment" twice. Our visibility drops. Ratings suffer. But what can we do? Sunday afternoon at 1 PM, I have 60 dine-in customers waiting. A delivery order comes in — someone in HSR wants 4 uttapams. If I take it, one of my walk-in customers waits 90 minutes. If I cancel, one delivery guy gets annoyed. It's arithmetic."
 
-Signals: Weekend restaurant capacity mismatch
+##Signals: Weekend restaurant capacity mismatch
 
-Interview C — Priya Nair (Marketing exec, Mumbai)
+##Interview C — Priya Nair (Marketing exec, Mumbai)
 Quote: "I'll be scrolling Zomato, find a nice-looking dal makhani, 200 rupees. Add to cart. Go to checkout. See: Total 257 rupees. Delivery fee 45. GST 12. Suddenly it's not 200. It's basically 260. That's almost 30 percent more than I thought I was paying. "
 
-Signals: Delivery fee matters for a price sensitive segment
+##Signals: Delivery fee matters for a price sensitive segment
 
-Quote: "Only at checkout. Which is annoying. I've already invested time picking food. Then boom — fee revealed. It feels like a trap. Sunk cost is real."
+##Quote: "Only at checkout. Which is annoying. I've already invested time picking food. Then boom — fee revealed. It feels like a trap. Sunk cost is real."
 
-Signals: Delivery fee matters for a price sensitive segment
+##Signals: Delivery fee matters for a price sensitive segment
 
-Interview D — Karthik Reddy (PM, Bangalore, ex-Gold)
+##Interview D — Karthik Reddy (PM, Bangalore, ex-Gold)
 Quote: "In July, they added "restrictions". Suddenly it was "Gold-eligible restaurants only" — they cut the eligible list by like 40 percent. Then the minimum order value went up from 199 to 249. Then they added a "handling fee" that Gold didn't cover. Then peak-hour surcharges Gold didn't cover either. Layer after layer."
 
 Signals: When Gold added restaurant restrictions, raised minimum order values, and introduced fees the plan didn't cover without clearly communicating the change, subscribers felt misled rather than informed which led to subscription cancellations
